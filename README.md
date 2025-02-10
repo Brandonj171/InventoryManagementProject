@@ -1,4 +1,4 @@
-![Screenshot 2025-02-10 154944](https://github.com/user-attachments/assets/df465f91-297b-4d6d-a7cf-caddf8248dbe)
+
 The Inventory Management System (IMS) is a comprehensive web application designed to streamline the management of inventory, sales, and transactions for businesses. It offers a user-friendly interface to manage products, categories, suppliers, customers, and transactions efficiently.
 
 **Features:**
@@ -98,8 +98,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [React.js](https://reactjs.org/) for building the user interface.
 - [Node.js](https://nodejs.org/) and [Express.js](https://expressjs.com/) for server-side development.
+
 - [MongoDB](https://www.mongodb.com/) for database management.
 - [JWT](https://jwt.io/) for secure authentication.
 
 This comprehensive README provides an overview of the Inventory Management System, including its features, technologies used, installation instructions, and contribution guidelines. Feel free to customize it further to match the specifics of your project. ![Screenshot 2025-02-10 154933](https://github.com/user-attachments/assets/6ab7c1c3-40ec-4b24-8260-bfc89114af47)
 ![Screenshot 2025-02-10 154918](https://github.com/user-attachments/assets/a8b3afb2-3637-4003-81d9-a3632e773648)
+![Screenshot 2025-02-10 154944](https://github.com/user-attachments/assets/df465f91-297b-4d6d-a7cf-caddf8248dbe)
