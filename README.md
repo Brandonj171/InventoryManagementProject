@@ -1,3 +1,4 @@
+![Screenshot 2025-02-10 154944](https://github.com/user-attachments/assets/df465f91-297b-4d6d-a7cf-caddf8248dbe)
 The Inventory Management System (IMS) is a comprehensive web application designed to streamline the management of inventory, sales, and transactions for businesses. It offers a user-friendly interface to manage products, categories, suppliers, customers, and transactions efficiently.
 
 **Features:**
